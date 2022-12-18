@@ -3,7 +3,7 @@
 </template>
 <script>
   export default {
-    name: 'BookItem',
+    name: 'Book-Item',
     props: ['book']
   }
 </script>
